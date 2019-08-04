@@ -1,0 +1,9 @@
+#Ver 1.0
+
+This package right here contains the Line.cs + A prefab already configured + a shader
+
+What It Does:
+1. Defines An start and end point for a line renderer
+2. Creates 2 aditional joints to make the line a little stylish
+3. Defines a threshold for the line to be "eased" (something like this "」" and this "「")
+4. there's a shader that allows the line to render on top of everyting to use it as a UI indicator
