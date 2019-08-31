@@ -1,0 +1,6 @@
+OBJECT POOLS by Sergio Peñaloza
+
+This Package has a pooling system yo implement in any game, you just add the Pool.cs to any game object and assign the prefabs
+to the corresponding serialized field
+
+The prefabs need to have any script that implements the IPoolObject Interface where you define how does the object activates and deactivates
